@@ -1,2 +1,4 @@
 # Jogo da velha
- Programa que cria o jogo da velha, desafio inciante.
+ Programa que cria o jogo da velha;
+ 
+ Desafio inciante.
